@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'ge_gravity2': Solving (Solves) a gravity model within the universal gravity class (with a positive supply elasticity) Use ge_gravity2 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ge_gravity2.ado
+f ge_gravity2.sthlp
