@@ -1,6 +1,8 @@
 # ge_gravity2
 Solving (Solves) a gravity model within the universal gravity class (with a positive supply elasticity) Use ge_gravity2 With STATA 18
 
+https://www.youtube.com/watch?v=yv2PJevjAhM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
